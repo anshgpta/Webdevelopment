@@ -20,7 +20,7 @@ int main() {
             max = arr[i];
         }
     }
-
+cout<<"the output of the max and min is ";
     cout << "Min value is: " << min << endl;
     cout << "Max value is: " << max;
 
